@@ -19,7 +19,7 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="ContactsPhoneNumbers">
-                <param name="android-package" value="cordova-plugin-contacts-phonenumbers.ContactsManager"/>
+                <param name="android-package" value="com.dbaq.cordova.contactsPhoneNumbers.ContactsManager"/>
             </feature>
         </config-file>
 
